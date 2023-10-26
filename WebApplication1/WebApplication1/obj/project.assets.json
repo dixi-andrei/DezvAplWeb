@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dixi\\.microsoftvs\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\Dixi\\Desktop\\DezvAplWeb\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\Dixi\\.microsoftvs\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Users\\Dixi\\Desktop\\DezvAplWeb\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Dixi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dixi\\.microsoftvs\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\Dixi\\Desktop\\DezvAplWeb\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dixi\\AppData\\Roaming\\NuGet\\NuGet.Config",
