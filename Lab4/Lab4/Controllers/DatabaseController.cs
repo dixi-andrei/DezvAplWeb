@@ -54,6 +54,30 @@ namespace Lab4_23.Controllers
 
             return Ok(student);
         }
+        [HttpGet("students-with-courses")]
+        public IActionResult GetStudentsWithCourses()
+        {
+            var studentsWithCourses = _lab4Context.Students.Include(s => s.Cursuri).ToList();
+            return Ok(studentsWithCourses);
+        }
+        [HttpGet("students-with-courses-join")]
+        public IActionResult GetStudentsWithCoursesJoin()
+        {
+            var studentsWithCourses = _lab4Context.Students
+                .Join(
+                    _lab4Context.Cursuri,
+                    student => student.Id,
+                    curs => curs.CursId,
+                    (student, cursuri) => new
+                    {
+                        Student = student,
+                        Cursuri = cursuri
+                    })
+                .ToList();
+
+            return Ok(studentsWithCourses);
+        }
+
 
     }
 }
