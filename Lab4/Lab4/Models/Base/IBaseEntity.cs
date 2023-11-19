@@ -1,6 +1,6 @@
 ﻿namespace Lab4.Models.Base
 {
-    public class IBase
+    public interface IBaseEntity
     {
         Guid Id { get; set; }
         DateTime? DateCreated { get; set; }

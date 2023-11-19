@@ -1,15 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "K4RG71LtvEW0v57QpBZ/8s7z/wcmxcy+/TOMLY3s7feKl+f8rWg25OkSOZPcpL6UUXvxyhgnAYBA4W8pLjCRHg==",
+  "dgSpecHash": "i3C1BM1+LNe5Uj4g7PQojP0fZ6df7r4HKAay5+vzSC5YvY+qsuzok3sMHLJp2Q1wYb9H1ik6IeVGcRIlZ1b6Kg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dixi\\Desktop\\DezvAplWeb\\Lab4\\Lab4\\Lab4.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Dixi\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Dixi\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Dixi\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\Dixi\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Dixi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",
     "C:\\Users\\Dixi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\Dixi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Dixi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Dixi\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
     "C:\\Users\\Dixi\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.0\\microsoft.data.sqlclient.sni.runtime.5.1.0.nupkg.sha512",
     "C:\\Users\\Dixi\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",

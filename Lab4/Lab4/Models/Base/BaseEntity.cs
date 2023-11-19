@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Lab4.Models.Base
 {
-    public class Base : IBase
+    public class BaseEntity : IBaseEntity
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
